@@ -1,14 +1,24 @@
 {
-  "name": "note-taker",
+  "name": "take-notes-with-express",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twdavis85/Take-notes-with-Express.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twdavis85/Take-notes-with-Express/issues"
+  },
+  "homepage": "https://github.com/Twdavis85/Take-notes-with-Express#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1",
+    "util": "^0.12.4"
   }
 }
