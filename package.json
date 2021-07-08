@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Twdavis85/Take-notes-with-Express#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "util": "^0.12.4"
+    "util": "^0.12.4",
+    "uuid": "^8.3.2"
   }
 }
