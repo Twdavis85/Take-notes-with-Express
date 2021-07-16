@@ -14,7 +14,7 @@ This application allows the user to take notes and save them to review later.  T
 ## Installation
 All you need for this application is the internet browser of your choice
 ## Usage
-To run this application you simply enter the following URL into your internet browser <br/> [https://github.com/Twdavis85/Take-notes-with-Express](https://github.com/Twdavis85/Take-notes-with-Express)
+To run this application you simply enter the following URL into your internet browser <br/> [https://still-earth-97819.herokuapp.com/](https://still-earth-97819.herokuapp.com/)
 ## Review URL
 [Repository](https://github.com/Twdavis85/Take-notes-with-Express) &nbsp; | &nbsp; 
 [Live](https://still-earth-97819.herokuapp.com/)
